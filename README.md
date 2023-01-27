@@ -9,13 +9,13 @@ Trabajo Práctico Integrador - A la caza de las vinchucas
 
 ## Conocimientos
 - SOLID
-- Patrones de diseño gamma et al ( [mas información](www.google.com) )
+- Patrones de diseño gamma et al ( [mas información](/TpGrupalObjetos2.pdf) )
 - Test unitarios y covertura
 - Conceptos basicos de POO (interfaces, clases, herencia, etc)
 
 ## Mas info
 
 - [Enunciado TP](/enunciado/enunciado.md)
-- [Caso de uso de patrones utilizados]()
-- [UML](/uml.png)
+- [Caso de uso de patrones utilizados](/TpGrupalObjetos2.pdf)
+- [UML](/UML.png)
 
